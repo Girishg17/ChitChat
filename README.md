@@ -25,7 +25,7 @@ Chit Chat is a simple web application that facilitates real-time communication b
   docker-compose up --build
 ```
 4.now the application avaliable on https://localhost:3000
-5.
+
 ``` bash
  docker-compose down
 ```
